@@ -1,0 +1,5 @@
+variance,continuous
+skewness,continuous
+curtosis,continuous
+entropy,continuous
+class,integer
